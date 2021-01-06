@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MesContacts</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="contact_nom">Nom</string>
+    <string name="contact_prenom">Prénom</string>
+    <string name="contact_tel">Téléphone</string>
+    <string name="contact_email">E-mail</string>
+    <string name="contact_adresse">Adresse postale</string>
+    <string name="contact_favoris">Favoris</string>
+    <string name="btn_Ajout">Ajouter</string>
+    <string name="btn_update">Enregistrer </string>
+    <string name="btn_cancel_update">Annuler</string>
+
+    <string name="txt_delete">Supprimer</string>
+    <string name="txt_Qr">Generer code QR</string>
+    <string name="message_alert">Etes vous sûr de vouloir supprimer ce contact ?</string>
+    <string name="title_alert">Confirmation</string>
+    <string name="ok_alert">OK</string>
+    <string name="cancel_alert">Annuler</string>
+    <string name="display_favoris">Mes favoris</string>
+    <string name="display_all">Tous les contacts</string>
+    <string name="read_Qr">Lire code Qr</string>
+
+    <string name="alert_error_read_Qr">Qr code imcompatible</string>
+    <string name="alert_contraint_contact">Nom et Téléphone obligatoire !</string>
+    <string name="alert_send_mail_error">Veuillez ajouter une adresse mail à ce contact pour envoyer un mail</string>
+    <string name="alert_locate_error">Veuillez ajouter une adresse postale à ce contact pour la localisation</string>
+    <string name="alert_add_contact">Nouveau contact ajouté</string>
+
+</resources>
